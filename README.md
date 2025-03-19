@@ -6,8 +6,6 @@
 <div style="float: left; width: 60%;">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=avadhoot5&label=Profile%20views&color=0e75b6&style=flat" alt="avadhoot5" /> </p>
 
-  - 🔭 I’m currently working as a **Front-end developer @Merkle**
-
   - 🌱 I’m currently learning **Next JS, DevOps**
 
   - 👯 I’m looking to collaborate on **various MERN stack projects**
